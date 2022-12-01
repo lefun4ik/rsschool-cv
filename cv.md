@@ -31,3 +31,12 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Experience
+No work experience, but there are several training projects:
+1. https://github.com/lefun4ik/freelancer ([GitHub Pages](https://lefun4ik.github.io/freelancer/)) - HTML, CSS, JS
+2. https://github.com/lefun4ik/car-repair ([GitHub Pages](https://lefun4ik.github.io/car-repair/)) - HTML, CSS, JS
+3. https://github.com/lefun4ik/trevland ([GitHub Pages](https://lefun4ik.github.io/trevland/)) - HTML, CSS, JS
+4. https://github.com/lefun4ik/invoriem ([GitHub Pages](https://lefun4ik.github.io/invoriem/)) - HTML, CSS, JS
+5. https://github.com/lefun4ik/alivio ([GitHub Pages](https://lefun4ik.github.io/alivio/)) - HTML, CSS, JS
+6. https://github.com/lefun4ik/relvise ([GitHub Pages](https://lefun4ik.github.io/relvise/)) - HTML, CSS, JS
