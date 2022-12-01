@@ -40,3 +40,16 @@ No work experience, but there are several training projects:
 4. https://github.com/lefun4ik/invoriem ([GitHub Pages](https://lefun4ik.github.io/invoriem/)) - HTML, CSS, JS
 5. https://github.com/lefun4ik/alivio ([GitHub Pages](https://lefun4ik.github.io/alivio/)) - HTML, CSS, JS
 6. https://github.com/lefun4ik/relvise ([GitHub Pages](https://lefun4ik.github.io/relvise/)) - HTML, CSS, JS
+
+## Education
+* Donetsk National Technical University
+	* Computer Modelling and Design
+
+* HTMLAcademy
+
+* Various tutorial videos on Youtube ([Glo Academy](https://www.youtube.com/@Glo_Academy), [Freelancer Lifestyle](https://www.youtube.com/@FreelancerLifeStyle), [WebCademy](https://www.youtube.com/@WebCademy))
+
+## Languages
+* Russian - native speaker
+* Ukrainian - native speaker
+* English - A2
