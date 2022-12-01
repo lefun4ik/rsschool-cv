@@ -24,3 +24,10 @@ I consider my strengths to be:
 * Figma (for web-development)
 * Adobe Photoshop (basic knowledge)
 * Windows OS, Linux (Ubuntu, Mint, Manjaro)
+
+## Code examples
+```
+function multiply(a, b){
+  return a * b;
+}
+```
