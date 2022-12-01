@@ -13,3 +13,14 @@ I consider my strengths to be:
 2. Attention to detail;
 3. Responsibility;
 4. Quick learner.
+
+## Skills
+* HTML5
+* CSS3 (Preprocessor SASS/SCSS, BEM methodology)
+* JavaScript (basic knowledge)
+* Version control: Git (GitHub)
+* Build system: GULP
+* Editors: Visual Studio, Visual Studio Code, Sublime Text 3, PHPStorm/WebStorm
+* Figma (for web-development)
+* Adobe Photoshop (basic knowledge)
+* Windows OS, Linux (Ubuntu, Mint, Manjaro)
